@@ -1,0 +1,10 @@
+# Compiled Python files
+*.pyc
+
+# IDE configuration files
+.idea
+.vscode
+
+# Folder view configuration files
+.DS_Store
+Desktop.ini
