@@ -1,0 +1,7 @@
+discord
+slack
+vlc
+iterm2
+visual-studio-code
+keka
+raycast

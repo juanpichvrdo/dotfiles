@@ -1,4 +1,4 @@
-# Setup
+# ZSH Setup
 
 ##### 1. Install zsh
 
@@ -43,3 +43,15 @@ sudo apt-get install autojump
 Run `vim ~/.zshrc` and replace the plugin list with this
 
 `plugins=(git zsh-autosuggestions zsh-syntax-highlighting autojump)`
+
+# Dotfiles Setup
+
+Clone this repo in the home directory and run `./config.sh` to copy .gitconfig, .gitignore and .zshrc into the home directory.
+
+# Quick install apps with Brew
+
+Install all apps in `apps.txt` with Brew with this command
+
+```bash
+xargs brew install < apps.txt
+```
